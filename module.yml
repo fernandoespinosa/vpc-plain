@@ -45,7 +45,7 @@ Outputs:
   ModuleId:
     Value: 'vpc-plain'
   ModuleVersion:
-    Value: '0.0.4'
+    Value: '0.0.5'
   StackName:
     Value: !Ref 'AWS::StackName'
   Id:
