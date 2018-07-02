@@ -1,8 +1,16 @@
 {
   "name": "@cfn-modules/vpc-plain",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "AWS VPC plain",
   "author": "Michael Wittig <michael@widdix.de>",
   "license": "Apache-2.0",
-  "keywords": ["cfn-modules", "cfn-modules:ExposeId"]
+  "keywords": ["cfn-modules", "cfn-modules:ExposeId"],
+  "homepage": "https://github.com/cfn-modules",
+  "bugs": {
+    "url": "https://github.com/cfn-modules/vpc-plain/issues"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/cfn-modules/vpc-plain.git"
+  }
 }
