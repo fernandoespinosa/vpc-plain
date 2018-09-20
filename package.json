@@ -1,6 +1,6 @@
 {
   "name": "@cfn-modules/vpc-plain",
-  "version": "0.0.6",
+  "version": "1.0.0",
   "description": "AWS VPC plain",
   "author": "Michael Wittig <michael@widdix.de>",
   "license": "Apache-2.0",
