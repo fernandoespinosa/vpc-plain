@@ -1,5 +1,5 @@
 {
-  "name": "@cfn-modules/vpc-plain",
+  "name": "@fernandoespinosa/vpc-plain",
   "version": "1.0.0",
   "description": "AWS VPC plain",
   "author": "Michael Wittig <michael@widdix.de>",
